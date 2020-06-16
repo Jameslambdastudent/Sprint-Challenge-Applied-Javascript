@@ -41,6 +41,7 @@ An event listener is a procedure or function in a computer program that waits fo
 To loop through the data
 
 5. What is a component?
+A function 
 
 ### Git Set up
 
